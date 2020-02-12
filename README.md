@@ -1,6 +1,7 @@
 # GreenLight
 
 
+
 GreenLight (an instance of decentralized workFlow) demonstrates a basic application for deploying the [VON-X](https://github.com/PSPC-SPAC-buyandsell/von-x) library, in order to enable issuer registration, claims verification, and credential submission to [TheOrgBook](https://github.com/bcgov/TheOrgBook). It includes Docker tooling for deployment of the application behind a Caddy reverse proxy.
 
 `greenlight` is being developed as part of the Verifiable Organizations Network (VON). For more information on VON see https://vonx.io.  Even, better - join in with what we are doing and contribute to VON and the Indy community.
